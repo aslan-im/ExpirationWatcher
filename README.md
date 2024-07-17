@@ -17,7 +17,7 @@ Please see the diagram below:
 ## Dependencies
 - Azure Automation Account
 - Azure Registered Application
-- Sharepoint List
+- Storage Account Table
 - Shared Mailbox
 - Teams Channel and configured webhook
 - Powershell modules:
